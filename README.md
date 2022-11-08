@@ -6,6 +6,6 @@ I currently work at [Booking.com](https://booking.com), previously [Spotify](htt
 
 I love building iOS frameworks and apps, web APIs and contributing to open source projects. Swift is my favored tool, but I also enjoy working with other languages like Python, Ruby, and Javascript.
 
-On the side, I enjoy practicing Arabic calligraphy, playing the piano, and looking for the best cup of espresso in town.
+On the side, I enjoy practicing [Arabic calligraphy](https://www.omaralbeik.com/gallery), playing the piano, and looking for the best cup of espresso in town.
 
 You can find me online on [Twitter](https://twitter.com/omaralbeik) and [Linkedin](https://www.linkedin.com/in/omaralbeik).
