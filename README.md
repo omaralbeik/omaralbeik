@@ -8,4 +8,4 @@ I love building iOS frameworks and apps, web APIs and contributing to open sourc
 
 On the side, I enjoy practicing [Arabic calligraphy](https://www.omaralbeik.com/gallery), playing the piano, and looking for the best cup of espresso in town.
 
-You can find me online on [Twitter](https://twitter.com/omaralbeik) and [Linkedin](https://www.linkedin.com/in/omaralbeik).
+You can find me online on [Linkedin](https://www.linkedin.com/in/omaralbeik).
